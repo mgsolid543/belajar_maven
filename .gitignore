@@ -1,0 +1,9 @@
+# Vim ignore
+*.swp
+
+# Maven ignore
+target
+
+# Mac ignore
+.DS_Store
+
